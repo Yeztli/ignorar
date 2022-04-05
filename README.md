@@ -1,2 +1,2 @@
 # ignorar
-# alguna descripcion, descargar algo de alguna pagina
+# ignora todo lo que hay aqui
